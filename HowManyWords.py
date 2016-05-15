@@ -12,5 +12,4 @@ def HowManyWords(s):
     return answer
 
 
-
 print HowManyWords("awosdrd")
